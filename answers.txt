@@ -1,0 +1,63 @@
+What is the GIT?
+Git kodu idarə edilməsi üçün istifadə olunan alətidir. 
+Kiçik və çox böyük layihələri idarə etmək üçün istifadə edilən idarəetmə sistemidir. 
+Koddakı dəyişiklikləri izləmək üçün istifadə olunur.
+
+Why we use it?
+Git fayllarda etdiyiniz dəyişiklikləri izləyir, beləliklə, edilənlər barədə qeydiniz var və lazım olduqda, xüsusi versiyalara qayıda bilərsiniz. 
+Git həm də əməkdaşlığı asanlaşdırır, birdən çox insan tərəfindən edilən dəyişikliklərin hamısını bir mənbədə birləşdirməyə imkan verir.
+
+What is the GITHub?
+Kodları saxlamağa və idarə etməyə, həmçinin kodlarındakı dəyişiklikləri izləməyə və idarə etməyə kömək edən vebsayt ya xidmətdir. 
+
+How the web browser works.
+Brauzer bizi internetdə istənilən yerə aparır.
+O, internetin digər hissələrindən məlumat alır və onu göstərir.
+Məlumat mətnin, şəkillərin və videonun internetdə necə ötürüldüyünü müəyyən edən Hypertext Transfer Protocol istifadə edərək ötürülür.
+
+What are HTML tags for?
+"HTML tags" HTML sənədindəki HTML elementinin başlanğıcını və sonunu göstərmək üçün istifadə olunan işarələmə dilinin bir parçasıdır. 
+HTML elementinin bir hissəsi kimi HTML teqləri veb brauzerlərə HTML sənədlərini veb səhifələrə çevirməyə kömək edir.
+
+What are Attributes for?
+Atributlar  elementin əlavə xüsusiyyətlərini və ya xassələrini müəyyən edir. 
+Atributlar həmişə açılış teqində müəyyən edilir.
+
+What does CSS do?
+Əslində, HTML sənədinin görünüşünü təsvir etməkdən məsul olan bir dildir.
+What are CSS selectors for?
+CSS selectorları üslub etmək istədiyiniz HTML elementlərini tapmaq və ya seçmək üçün istifadə olunur. 
+
+Why we need CSS reset?
+Hər bir brauzer müxtəlif HTML elementləri üçün öz standart üslub dəyərlərini təyin edir. 
+CSS Reset ilə biz cross-brauzer üslubunu təmin etmək üçün bu fərqi düzəldə bilərik,
+yəni CSS Reset ilə istənilən dəyərləri veririk və bizim dəyərlərimiz hər brauzer üçün "standart" olur.
+
+What are the advantages of using fonts instead of images as icons?
+Şriftlərin əsas üstünlüyü odur ki, onların çox gözəl miqyasda olmasıdır. 
+Şəkillərdən daha keyfiyyətli ölçüdə böyüyürlər. Həmçinin, şrift simvolu mətn olduğundan, 
+ölçüsünü tənzimləmək və rəngi dəyişmək üçün CSS asanlıqla tətbiq oluna bilər.
+
+What are the advantages of using Flex?
+Flex adaptasiya etməyə, uyğunlaşma etmək üçün elementlərin maketin içində çox rahat bir funksionaldır.
+Flexboxes beləliklə layoutun çevik elementləridir. Flexbox-un əsas üstünlüklərindən biri əlavə yer doldurmaq qabiliyyətidir.
+
+What was the most interesting topic from what you have learned so far? (Why)
+Bütün mövzular mənə maraqlı gəldi.
+
+What can you do with what you've learned so far?
+Bununla biz xüsusi dizayn və "style" , dinamik saytlar yarada biləriz.
+
+
+What is Bootstrap?
+Vebsaytları hazırlamaq üçün ən populyar CSS çərçivəsi Bootstrap-dır. 
+Ən yeni versiya Bootstrap 5-dir. Bootstrap veb-saytlar və veb proqramların yaradılması üçün pulsuz platformadı. 
+Mobil ilk vebsaytların həssas inkişafını təmin etmək üçün nəzərdə tutulmuş Bootstrap şablon dizaynları üçün sintaksis toplusunu təqdim edir.
+
+How is it works?
+Çərçivə olaraq, Bootstrap cavab verən veb inkişafı üçün əsasları ehtiva edir, ona görə də tərtibatçılar kodu yalnız əvvəlcədən müəyyən edilmiş şəbəkə sisteminə daxil etməlidirlər.
+Bootstrap çərçivəsi HTML, CSS və JavaScript üzərində qurulub.
+Bootstrap istifadə edən veb tərtibatçıları əsas əmrlər və funksiyalar barədə narahat olmağa vaxt sərf etmədən veb saytları daha sürətli qura bilərlər.
+
+Could you create package like Bootstrap? How?
+Məncə mümkündür, lakin təkbaşına çox çetindir. Bootstrap şablonlardı demək olar ki. Şablon sintaksis yığmaq bir yerə lazımdır.
